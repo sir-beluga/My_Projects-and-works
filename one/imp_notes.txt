@@ -1,0 +1,3 @@
+parenthesis is optional in tuple but big bracket is compulsory in lists
+but in set and dictionary we use middle bracket
+set is diff from dict cz in set we use key and value pair in dict
