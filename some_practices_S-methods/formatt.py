@@ -1,0 +1,6 @@
+txt="my name is {nname} and i am {age} years old".format(nname="kushal",age=19)
+print(txt)
+txt1="my name is {0} and my age is {1}".format("kushal",19)
+print(txt1)
+txt2="my name is {} and i study in class {}".format("ram",13)
+print(txt2)
