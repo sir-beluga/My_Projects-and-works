@@ -1,4 +1,4 @@
-txt="my name is {nname} and i am {age} years old".format(nname="kushal",age=19)
+txt="my name is {nname} and i am {age:.2f} years old".format(nname="kushal",age=19)
 print(txt)
 txt1="my name is {0} and my age is {1}".format("kushal",19)
 print(txt1)
